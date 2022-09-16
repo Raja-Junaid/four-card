@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(0, 0%, 98%);
+  font-family: "Poppins", sans-serif;
+}
+
+/*--------- Heading -----------*/
+
+.first-div {
+  text-align: center;
+  color: hsl(234, 12%, 34%);
+  margin-top: 50px;
+}
+
+.first-heading {
+  font-weight: lighter;
+}
+
+.second-heading {
+  font-weight: bold;
+  margin-bottom: 17px;
+}
+
+.main-paragraph {
+  text-align: center;
+  color: hsl(229, 6%, 66%);
+}
+
+/*----------- Hero Part ---------*/
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-top: px; */
+}
+
+.one {
+  border-top: 5px solid hsl(180, 62%, 55%);
+  background-color: #ffffff;
+  color: hsl(234, 12%, 34%);
+  width: 370px;
+  height: 230px;
+  position: relative;
+  border-radius: 5px;
+  margin-right: 40px;
+  box-shadow: rgba(17, 17, 17, 0.2) 0px 8px 24px;
+}
+
+.fclass {
+  margin: 20px 0 0 20px;
+}
+
+.pclass {
+  margin: 5px 0 0 20px;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+}
+
+.image {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
+
+.two {
+  border-top: 5px solid hsl(212, 86%, 64%);
+  background-color: #ffffff;
+  color: hsl(234, 12%, 34%);
+  width: 370px;
+  height: 230px;
+  position: relative;
+  border-radius: 5px;
+  box-shadow: rgba(17, 17, 17, 0.2) 0px 8px 24px;
+}
+
+.fclass {
+  margin: 20px 0 0 20px;
+}
+
+.pclass {
+  margin: 5px 0 0 20px;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+}
+
+.image {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
+
+.another {
+  display: block;
+  margin-top: 50px;
+}
+
+.three {
+  border-top: 5px solid hsl(0, 78%, 62%);
+  background-color: #ffffff;
+  color: hsl(234, 12%, 34%);
+  width: 370px;
+  height: 230px;
+  position: relative;
+  border-radius: 5px;
+  margin-bottom: 40px;
+  box-shadow: rgba(17, 17, 17, 0.2) 0px 8px 24px;
+}
+
+.fclass {
+  margin: 20px 0 0 20px;
+}
+
+.pclass {
+  margin: 5px 0 0 20px;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+}
+
+.image {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
+
+.four {
+  border-top: 5px solid hsl(34, 97%, 64%);
+  background-color: #ffffff;
+  color: hsl(234, 12%, 34%);
+  width: 370px;
+  height: 230px;
+  position: relative;
+  border-radius: 5px;
+  margin-right: 40px;
+  box-shadow: rgba(17, 17, 17, 0.2) 0px 8px 24px;
+}
+
+.fclass {
+  margin: 20px 0 0 20px;
+}
+
+.pclass {
+  margin: 5px 0 0 20px;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+}
+
+.image {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
